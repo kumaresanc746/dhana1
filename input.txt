@@ -1,0 +1,14 @@
+DevOps Periodic Table
+Source Code Management
+Database Automation
+Continuous Integration
+Testing
+Configuration Management
+Deployment
+Containers
+Release Orchestration
+Cloud
+Artificial Intelligence Operations
+Analytics
+Monitoring
+Security
